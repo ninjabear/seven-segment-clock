@@ -38,46 +38,5 @@ public class Main extends Application {
 
     public static void main(String[] args) {
         launch(args);
-
-        /*
-        Logger.log("Started!");
-
-        final ClockTimer ct = new ClockTimer();
-        ct.start(new ClockTimer.TimerEvent() {
-            @Override
-            public void timeGiven(SevenSegTime t) {
-                Logger.log(t.toString());
-            }
-        });
-
-        try {
-            Thread.sleep(10000);
-        } catch (InterruptedException x)
-        {
-             Logger.log(x);
-        }
-
-        ct.stop();
-
-        Logger.log("Digit test..");
-
-        for (int d = 0; d<=9; d++)
-        {
-            SevenSegDigit dig = new SevenSegDigit(d);
-            String states = d+"; ";
-
-            for (SevenSegDigit.ElState e : dig.getSegStates())
-            {
-                states += e.toString() + ", ";
-            }
-
-            states = states.replaceFirst(",\\s+$", "");
-
-            Logger.log(states);
-        }
-
-
-        Logger.log("Finished!");
-        */
     }
 }
