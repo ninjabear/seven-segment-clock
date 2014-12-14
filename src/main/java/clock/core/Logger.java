@@ -6,13 +6,6 @@ import java.io.Writer;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created with IntelliJ IDEA.
- * User: ed
- * Date: 8/17/13
- * Time: 10:27 AM
- * To change this template use File | Settings | File Templates.
- */
 public class Logger {
 
     private Logger() {};

@@ -7,13 +7,6 @@ import javafx.scene.shape.Circle;
 import javafx.scene.shape.Ellipse;
 import javafx.scene.shape.EllipseBuilder;
 
-/**
- * Created with IntelliJ IDEA.
- * User: ed
- * Date: 8/17/13
- * Time: 1:39 PM
- * To change this template use File | Settings | File Templates.
- */
 public class Dot extends Parent {
 
     public Dot()

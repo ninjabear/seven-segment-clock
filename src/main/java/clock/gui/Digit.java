@@ -7,13 +7,6 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Polygon;
 import javafx.scene.shape.StrokeLineJoin;
 
-/**
- * Created with IntelliJ IDEA.
- * User: ed
- * Date: 8/17/13
- * Time: 1:39 PM
- * To change this template use File | Settings | File Templates.
- */
 public class Digit extends Parent {
 
     private final Color colorLit = Color.RED,

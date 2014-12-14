@@ -7,13 +7,6 @@ import clock.core.SevenSegTime;
 import javafx.scene.Group;
 import javafx.scene.Parent;
 
-/**
- * Created with IntelliJ IDEA.
- * User: ed
- * Date: 8/17/13
- * Time: 2:00 PM
- * To change this template use File | Settings | File Templates.
- */
 public class DigitalClock extends Parent implements ClockTimer.TimerEvent {
 
     Digit h1, h2, m1, m2, s1, s2;

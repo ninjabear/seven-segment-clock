@@ -5,13 +5,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created with IntelliJ IDEA.
- * User: ed
- * Date: 8/17/13
- * Time: 9:53 AM
- * To change this template use File | Settings | File Templates.
- */
 public class SevenSegTime {
 
    private final SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");

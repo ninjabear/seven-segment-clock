@@ -6,13 +6,6 @@ import java.awt.*;
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 
-/**
- * Created with IntelliJ IDEA.
- * User: ed
- * Date: 8/17/13
- * Time: 9:52 AM
- * To change this template use File | Settings | File Templates.
- */
 public class ClockTimer {
 
     private static final long WAIT_TIME = 500;

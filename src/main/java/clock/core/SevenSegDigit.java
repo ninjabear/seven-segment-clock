@@ -3,13 +3,6 @@ package clock.core;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created with IntelliJ IDEA.
- * User: ed
- * Date: 8/17/13
- * Time: 11:35 AM
- * To change this template use File | Settings | File Templates.
- */
 public class SevenSegDigit {
 
     public enum ElState {
